@@ -1,0 +1,27 @@
+2.0 General Overview
+This chapter documents about the work carried out by the department or organization, Targets of internship by the trainee, duties and responsibilities assigned to the internee and how they were carried out, new knowledge and skills gained by the internee, challenges experiences by the internee and how they were handled.
+2.1 Description of Organizational Activities
+Banda computer center carries out a number of activities, with great focus on areas of Websites development and design, Application development and Installation, Graphics and Design, Networking, Hard ware and Maintenance etc. 
+2.2 Targets from week one to week five.
+To know how to terminate ethernet cables
+To know how to terminate face plates
+To know how to code using html.
+To learn how to style web pages using CSS.
+To know how to add images and videos to a web site.
+To link different web pages to make a website
+To ideate and innovate in consideration of the three sectors i.e. IT, business.
+To identify different internal computer computers.
+To how client and a server work hand in hand.
+To know how wireless network works
+To know the differences between a router and a switch.
+To know how an access point works.
+ To know the difference between copper cables and optical cables
+To know how to network a small place.
+To know the tools for web designing.
+To know the fundamentals of web designing.
+To know how to manage clients using the server.
+To know how to identify the IP address of the computer
+To know how to assemble the different parts of the computer so that it functionally properly.
+To know how to install an operating system on the computer.
+To know to connect the different internal parts of the computer.
+To know the basics of networking
